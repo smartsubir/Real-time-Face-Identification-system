@@ -17,13 +17,13 @@ video_capture = cv2.VideoCapture(0)
 sujay_image = fr.load_image_file("sujay.jpeg")
 sujay_face_encoding = fr.face_encodings(sujay_image)[0]
 
-subir_image = fr.load_image_file("subir.jpg")
+subir_image = fr.load_image_file("subir.png")
 subir_face_encoding = fr.face_encodings(subir_image)[0]
 
 gautam_image = fr.load_image_file("gautam.jpeg")
 gautam_face_encoding = fr.face_encodings(gautam_image)[0]
 
-neha_image = fr.load_image_file("neha.jpeg")
+neha_image = fr.load_image_file("neha.jpg")
 neha_face_encoding = fr.face_encodings(neha_image)[0]
 
 suman_image = fr.load_image_file("suman.jpeg")
