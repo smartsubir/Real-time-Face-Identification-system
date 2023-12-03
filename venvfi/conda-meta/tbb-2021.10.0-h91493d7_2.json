@@ -1,0 +1,70 @@
+{
+  "build": "h91493d7_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libhwloc >=2.9.3,<2.9.4.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\smart\\anaconda3\\pkgs\\tbb-2021.10.0-h91493d7_2",
+  "files": [
+    "Library/bin/tbb12.dll",
+    "Library/bin/tbbbind_2_5.dll",
+    "Library/bin/tbbmalloc.dll",
+    "Library/bin/tbbmalloc_proxy.dll",
+    ".nonadmin"
+  ],
+  "fn": "tbb-2021.10.0-h91493d7_2.conda",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\smart\\anaconda3\\pkgs\\tbb-2021.10.0-h91493d7_2",
+    "type": 1
+  },
+  "md5": "5b8c97cf8f0e81d6c22c0bda9978790d",
+  "name": "tbb",
+  "package_tarball_full_path": "C:\\Users\\smart\\anaconda3\\pkgs\\tbb-2021.10.0-h91493d7_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/tbb12.dll",
+        "path_type": "hardlink",
+        "sha256": "9a7f931f0a21c3c9d1c2c6e87bc0cb9a157931fafff7c208e9d592344c3e87e9",
+        "sha256_in_prefix": "9a7f931f0a21c3c9d1c2c6e87bc0cb9a157931fafff7c208e9d592344c3e87e9",
+        "size_in_bytes": 318976
+      },
+      {
+        "_path": "Library/bin/tbbbind_2_5.dll",
+        "path_type": "hardlink",
+        "sha256": "18d96f9b932866b1efa32dac2bad54723b570f6d11d0998054581c5abdbed3c3",
+        "sha256_in_prefix": "18d96f9b932866b1efa32dac2bad54723b570f6d11d0998054581c5abdbed3c3",
+        "size_in_bytes": 23040
+      },
+      {
+        "_path": "Library/bin/tbbmalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "b1acc49b5ece3992b27718cf7be91ea5ee8142cc328999abd3879f804abcb0af",
+        "sha256_in_prefix": "b1acc49b5ece3992b27718cf7be91ea5ee8142cc328999abd3879f804abcb0af",
+        "size_in_bytes": 108544
+      },
+      {
+        "_path": "Library/bin/tbbmalloc_proxy.dll",
+        "path_type": "hardlink",
+        "sha256": "658cf60fbd1f157b405b5c56043dd2b5055fe47b8ecab539e7da017fa9bbf719",
+        "sha256_in_prefix": "658cf60fbd1f157b405b5c56043dd2b5055fe47b8ecab539e7da017fa9bbf719",
+        "size_in_bytes": 30720
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e55a2f1324f0fc8916ab8d590a3944ba1af62de727bb66e3019cf2744d26e679",
+  "size": 156566,
+  "subdir": "win-64",
+  "timestamp": 1697713986066,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/tbb-2021.10.0-h91493d7_2.conda",
+  "version": "2021.10.0"
+}

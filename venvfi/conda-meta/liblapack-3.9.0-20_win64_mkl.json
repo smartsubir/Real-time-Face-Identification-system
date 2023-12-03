@@ -1,0 +1,47 @@
+{
+  "build": "20_win64_mkl",
+  "build_number": 20,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "liblapacke 3.9.0 20_win64_mkl",
+    "blas * mkl",
+    "libcblas 3.9.0 20_win64_mkl"
+  ],
+  "depends": [
+    "libblas 3.9.0 20_win64_mkl"
+  ],
+  "extracted_package_dir": "C:\\Users\\smart\\anaconda3\\pkgs\\liblapack-3.9.0-20_win64_mkl",
+  "files": [
+    "Library/bin/liblapack.dll",
+    ".nonadmin"
+  ],
+  "fn": "liblapack-3.9.0-20_win64_mkl.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\smart\\anaconda3\\pkgs\\liblapack-3.9.0-20_win64_mkl",
+    "type": 1
+  },
+  "md5": "9510d07424d70fcac553d86b3e4a7c14",
+  "name": "liblapack",
+  "package_tarball_full_path": "C:\\Users\\smart\\anaconda3\\pkgs\\liblapack-3.9.0-20_win64_mkl.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/liblapack.dll",
+        "path_type": "hardlink",
+        "sha256": "25fd69f6791a0c5ab481636145202937d5f47634485802b41e56eb8fe5506625",
+        "sha256_in_prefix": "25fd69f6791a0c5ab481636145202937d5f47634485802b41e56eb8fe5506625",
+        "size_in_bytes": 38086152
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7627ef580c26e48c3496b5885fd32be4e4db49fa1077eb21235dc638489565f6",
+  "size": 4980967,
+  "subdir": "win-64",
+  "timestamp": 1700569262298,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/liblapack-3.9.0-20_win64_mkl.conda",
+  "version": "3.9.0"
+}

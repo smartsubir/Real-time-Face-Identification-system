@@ -1,0 +1,41 @@
+==> 2023-11-30 17:20:15 <==
+# cmd: C:\Users\smart\anaconda3\Scripts\conda-script.py create -p venvfi python==3.8 -y
+# conda version: 23.5.2
++defaults/win-64::ca-certificates-2023.08.22-haa95532_0
++defaults/win-64::openssl-1.1.1w-h2bbff1b_0
++defaults/win-64::pip-23.3.1-py38haa95532_0
++defaults/win-64::python-3.8.0-hff0d562_2
++defaults/win-64::setuptools-68.0.0-py38haa95532_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wheel-0.41.2-py38haa95532_0
+# update specs: ['python==3.8']
+==> 2023-12-01 13:17:42 <==
+# cmd: C:\Users\smart\anaconda3\Scripts\conda-script.py install -c conda-forge dlib
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2023.08.22-haa95532_0
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
+-defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++conda-forge/win-64::ca-certificates-2023.11.17-h56e8100_0
++conda-forge/win-64::dlib-19.24.2-py38h314b149_2
++conda-forge/win-64::intel-openmp-2023.2.0-h57928b3_50497
++conda-forge/win-64::libblas-3.9.0-20_win64_mkl
++conda-forge/win-64::libcblas-3.9.0-20_win64_mkl
++conda-forge/win-64::libhwloc-2.9.3-default_haede6df_1009
++conda-forge/win-64::libiconv-1.17-h8ffe710_0
++conda-forge/win-64::libjpeg-turbo-3.0.0-hcfcfb64_1
++conda-forge/win-64::liblapack-3.9.0-20_win64_mkl
++conda-forge/win-64::libpng-1.6.39-h19919ed_0
++conda-forge/win-64::libxml2-2.11.6-hc3477c8_0
++conda-forge/win-64::libzlib-1.2.13-hcfcfb64_5
++conda-forge/win-64::mkl-2023.2.0-h6a75c08_50497
++conda-forge/win-64::numpy-1.24.4-py38h1d91fd2_0
++conda-forge/win-64::openssl-1.1.1w-hcfcfb64_0
++conda-forge/win-64::pthreads-win32-2.9.1-hfa6e2cd_3
++conda-forge/win-64::python_abi-3.8-2_cp38
++conda-forge/win-64::tbb-2021.10.0-h91493d7_2
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc14_runtime-14.36.32532-hdcecf7f_17
++conda-forge/win-64::vs2015_runtime-14.36.32532-h05e6639_17
+# update specs: ['dlib']

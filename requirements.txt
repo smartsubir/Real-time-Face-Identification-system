@@ -1,0 +1,7 @@
+cmake
+numpy
+opencv-python
+dlib
+face-recognition-models
+face_recognition
+-e .
