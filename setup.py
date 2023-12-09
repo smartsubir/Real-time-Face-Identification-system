@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 name='Real_time_face_identification',
-version='1.0.0',
+version='1.2.0',
 author='Subir',
 author_email='smartsubir2010@gmail.com',
 packages=find_packages(),

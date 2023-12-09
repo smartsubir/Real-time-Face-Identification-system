@@ -32,7 +32,7 @@ while True:
     face_encodings = face_recognition.face_encodings(frame, face_locations)
 
     for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
-        matches = face_recognition.compare_faces(known_face_encodings, face_encoding)
+        matches = face_recognition.compare_faces(known_face_encodings, face_encoding, tolerance=0.6)
         name = "Unknown"
         color = (0, 0, 255)  # Default color for unknown faces (red)
 
