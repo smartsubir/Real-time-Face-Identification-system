@@ -1,4 +1,3 @@
-ok
 # Real-time-Face-Identification-system
 
 I'm thrilled to share my latest project on face recognition! 🚀
